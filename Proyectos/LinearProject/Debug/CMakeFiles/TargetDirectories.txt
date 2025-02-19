@@ -1,0 +1,7 @@
+/home/danielvelasquez/Documentos/HPC_1_2022/LinearProject/LinearProject/Debug/CMakeFiles/LinearProject.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/LinearProject/LinearProject/Debug/CMakeFiles/edit_cache.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/LinearProject/LinearProject/Debug/CMakeFiles/rebuild_cache.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/LinearProject/LinearProject/Debug/CMakeFiles/list_install_components.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/LinearProject/LinearProject/Debug/CMakeFiles/install.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/LinearProject/LinearProject/Debug/CMakeFiles/install/local.dir
+/home/danielvelasquez/Documentos/HPC_1_2022/LinearProject/LinearProject/Debug/CMakeFiles/install/strip.dir
